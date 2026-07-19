@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>thekawaiilotus</title>
-    <link>https://example.com/</link>
+    <link>https://thekawaiilotus.github.io/</link>
     
     <image>
-      <url>https://example.com/icon.png</url>
+      <url>https://thekawaiilotus.github.io/icon.png</url>
       <title>thekawaiilotus</title>
-      <link>https://example.com/</link>
+      <link>https://thekawaiilotus.github.io/</link>
     </image>
     
-    <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://thekawaiilotus.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>Enstars fan translator of whatever stories catch my eye! &amp;lt;3</description>
     <pubDate>Sun, 28 Jun 2026 00:14:15 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>Welcome! Get to Know the Translator~</title>
-      <link>https://example.com/post/The-Basics/</link>
-      <guid>https://example.com/post/The-Basics/</guid>
+      <link>https://thekawaiilotus.github.io/post/The-Basics/</link>
+      <guid>https://thekawaiilotus.github.io/post/The-Basics/</guid>
       <pubDate>Sun, 28 Jun 2026 00:14:15 GMT</pubDate>
       
         
@@ -37,7 +37,7 @@
       
       
       
-      <comments>https://example.com/post/The-Basics/#disqus_thread</comments>
+      <comments>https://thekawaiilotus.github.io/post/The-Basics/#disqus_thread</comments>
       
     </item>
     
